@@ -126,8 +126,6 @@ def main(argv):
 
     get_results(results)
 
-    
-
     results_csv = get_repos_results(result_repos,rooster,auth)
     # print(results_csv)
 
